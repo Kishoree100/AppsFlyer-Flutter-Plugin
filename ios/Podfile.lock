@@ -1,0 +1,31 @@
+PODS:
+  - appsflyer_sdk (6.16.2):
+    - AppsFlyerFramework (= 6.16.2)
+    - Flutter
+  - AppsFlyerFramework (6.16.2):
+    - AppsFlyerFramework/Main (= 6.16.2)
+  - AppsFlyerFramework/Main (6.16.2)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - appsflyer_sdk (from `.symlinks/plugins/appsflyer_sdk/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - AppsFlyerFramework
+
+EXTERNAL SOURCES:
+  appsflyer_sdk:
+    :path: ".symlinks/plugins/appsflyer_sdk/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  appsflyer_sdk: ebe94dc3f00b07bdd001251dbc87879bda3c494a
+  AppsFlyerFramework: fe5303bffcdfd941d5f570c2d21eaaea982e7bdc
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+
+PODFILE CHECKSUM: 4305caec6b40dde0ae97be1573c53de1882a07e5
+
+COCOAPODS: 1.16.2
